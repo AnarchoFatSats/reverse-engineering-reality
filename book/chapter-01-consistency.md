@@ -114,7 +114,7 @@ Simultaneity is relative. Two events that are simultaneous in my frame may not b
 
 **The lesson**: There is no absolute space and time. Different observers measure different times and distances. The intuitive picture of a universal stage with a universal clock is wrong.
 
-**The first-principles reframing**: Reality is not about a single objective description. It's about different observers' descriptions being *consistent* where they overlap. In our model, Lorentz kinematics arises when modular flow on caps becomes geometric. In the technical paper we derive this under Markov + MaxEnt structure, rotational symmetry, and a refinement limit; if those inputs fail, it stands as a bridge assumption.
+**The first-principles reframing**: Reality is not about a single objective description. It's about different observers' descriptions being *consistent* where they overlap. The laws of physics—including Lorentz invariance—are what make this agreement possible.
 
 ## 1.4 Hint #2: Measurement Affects Outcomes
 
@@ -214,15 +214,7 @@ We exist in a tiny island of consistency in a vast sea of possible physics. Most
 
 ### Why Is Physics Uniform?
 
-Here's another puzzle the ancients didn't worry about: why are the laws of physics the same everywhere?
-
-If I do an experiment in my lab, and you do the same experiment in a lab on the other side of the planet, we get the same result. If astronomers measure the spectrum of hydrogen in a distant galaxy 10 billion light-years away, it matches the spectrum we measure on Earth.
-
-**The intuitive expectation**: Why shouldn't the laws be different in different places? What enforces uniformity?
-
-**The surprising observation**: The laws are uniform. Physics is the same everywhere we've ever looked.
-
-**The first-principles reframing**: If the laws changed depending on where you are, observers in different locations couldn't agree on physics. The universe would fragment into incompatible realities. Uniformity is not the default-it's a stringent consistency requirement.
+The laws of physics appear to be the same everywhere. An experiment in my lab gives the same result as the same experiment on the other side of the planet. The spectrum of hydrogen in a galaxy 10 billion light-years away matches what we measure on Earth. We take this for granted, but it's worth asking: what enforces this uniformity? If the laws varied from place to place, observers in different locations couldn't agree on physics. The universe would fragment into incompatible realities. Uniformity isn't just convenient—it's a consistency requirement.
 
 ## 1.7 Symmetry as Consistency
 
