@@ -115,11 +115,11 @@ The same axioms with different settings would produce a universe with different 
 
 ### Calibration vs Prediction
 
-In the current implementation, the pixel constant $P = a_{\text{cell}}/\ell_P^2$ is *inferred* from measured gauge couplings because the axioms fix the functional relation $P = 4\bar{\ell}_{\text{tot}}(t_2,t_3)$ but do not yet fix the MaxEnt Lagrange multipliers $t_i$ (equivalently the couplings) from first principles. This inference step is therefore a calibration, not a claimed prediction of $P$.
+In the current implementation, the pixel constant P = a_cell/ℓ_P² is *inferred* from measured gauge couplings because the axioms fix the functional relation P = 4ℓ̄_tot(t₂,t₃) but do not yet fix the MaxEnt Lagrange multipliers t_i (equivalently the couplings) from first principles. This inference step is therefore a calibration, not a claimed prediction of P.
 
-The nontrivial content is that $P$ provides an additional constraint linking the gravitational coupling to gauge-sector edge entropy, and in a two-input mode (treating $P$ as a fundamental configuration parameter and using only one electroweak datum $\alpha(M_Z)$) the framework predicts $\alpha_s(M_Z)$ and $\sin^2\theta_W(M_Z)$ simultaneously.
+The nontrivial content is that P provides an additional constraint linking the gravitational coupling to gauge-sector edge entropy, and in a two-input mode (treating P as a fundamental configuration parameter and using only one electroweak datum α(M_Z)) the framework predicts α_s(M_Z) and sin²θ_W(M_Z) simultaneously.
 
-Full non-circular closure would require a UV principle that fixes $t$ without reference to measured couplings.
+Full non-circular closure would require a UV principle that fixes t without reference to measured couplings.
 
 ### Current Status
 
