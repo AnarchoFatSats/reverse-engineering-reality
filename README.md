@@ -4,7 +4,7 @@
 
 **Read:** [How OPH Addresses Major Open Problems in Physics](https://medium.com/@muellerberndt/answering-10-of-the-hardest-questions-in-physics-and-some-bonus-questions-51222bf2419f)
 
-Physics is reverse engineering at cosmic scale. We observe reality's behavior and work backward to reconstruct the underlying rules. This project is an attempt to contribute to that effort.
+Physics is reverse engineering at cosmic scale. We observe reality's behavior and work backward to reconstruct the underlying rules. This project presents a theory of everything in the literal sense: it explains why reality exists and why it is the way it is, derived from first principles.
 
 ## The Core Idea
 
@@ -68,7 +68,7 @@ The following infographic shows how the entire framework flows from two paramete
 
 ## The Fundamental Parameters
 
-If the model is correct, our universe is characterized by exactly **two fundamental parameters**:
+Our universe is characterized by exactly **two fundamental parameters**:
 
 ### 1. Pixel Area: $a_{\text{cell}} \approx 1.63 \, \ell_P^2$
 
@@ -386,7 +386,7 @@ Where would patches be? They would emerge from the dynamics. The system evolves 
 
 Note that Hamiltonian evolution is not the same as the time experienced "inside". The microscopic dynamics tick away according to our external laboratory clock. But any observer-like pattern that emerges within the simulation has its own modular flow, its own internal sense of time constructed from the density matrix on its patch. The lab clock and the simulated observer's clock are related but distinct. We'd be watching from outside as the qudits evolve, while any emergent observers inside would experience their own temporal flow, potentially at a completely different rate or structure.
 
-This is speculative, but it's not science fiction. The physics is well-defined enough to simulate. If the model is right, the ultimate validation wouldn't be a mathematical proof. It would be switching on a small holographic screen and watching spacetime flicker into existence.
+This is speculative, but it's not science fiction. The physics is well-defined enough to simulate. The ultimate validation wouldn't be a mathematical proof. It would be switching on a small holographic screen and watching spacetime flicker into existence.
 
 ## Contributing
 
